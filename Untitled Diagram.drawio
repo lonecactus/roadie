@@ -183,6 +183,15 @@
         <mxCell id="gQ4Etl3tVQtRYQXz0Avo-79" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Service Record Page&lt;/h1&gt;&lt;p&gt;Info about a guitar, and an interface that lets you browse a table of service record entries (organized in reverse chronological order and paginated)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="1510" width="450" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="gQ4Etl3tVQtRYQXz0Avo-80" value="just an assortment of fields and sections&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;need a top toolbar and a bottom toolbar, magento-esque&lt;/div&gt;&lt;div&gt;with back/save/save+continue/delete in each&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;some sections (like strings etc) can have &#39;use values from previous service&#39; button which imports measurements from last record; these sections will be *required so you either have to bring the measurements forward or input new ones&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1760" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ4Etl3tVQtRYQXz0Avo-83" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;New service record for&amp;nbsp;&lt;/h1&gt;&lt;p&gt;probably the same stuff/layout from the intro deets on Guitar Details page&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255" y="1600" width="285" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="gQ4Etl3tVQtRYQXz0Avo-84" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="1610" width="110" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
